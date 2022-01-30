@@ -1,7 +1,7 @@
 ### Hi, I am Marcos Felipe, welcome to my GitHub. 🎯
 
 - 🔭 I am currently a student of Systems Analysis and Development at Fatec Zona Sul College.
-- 📗 I’m currently learning Javascript and web development skills, I also intend to learn web backend.  
+- 📗 I’m currently learning Javascript and web development skills, I also intend to learn Web Backend.  
 - 🔥 Skills: HTML, CSS, C++, Git, Javascript.  
 - 🖥️ I am looking for a Front End Developer job, either as an Intern or a Junior. 
 - 🌎 A phrase: "From Piauí to the world".
@@ -25,4 +25,14 @@
   <img align="center" alt="Marc-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
   
-  ##
+##
+  
+<div> 
+   <a href="https://www.linkedin.com/in/marcosfelipesl/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/marclipe_sl" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/felipe.sousa.20/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marcosfelipek10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+
+  
