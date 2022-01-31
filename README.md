@@ -1,7 +1,7 @@
 ### Hi, I am Marcos Felipe, welcome to my GitHub. 🎯
 
-- 🔭 I am currently a student of Systems Analysis and Development at Fatec Zona Sul College.
-- 📗 I’m currently learning Javascript and web development skills, I also intend to learn Web Backend.  
+- 🔭 I am currently student of Systems Analysis and Development at Fatec Zona Sul College.
+- 📗 I am currently learning Javascript and web development skills, I also intend to learn Web Backend.  
 - 🔥 Skills: HTML, CSS, C++, Git, Javascript.  
 - 🖥️ I am looking for a Front End Developer job, either as an Intern or a Junior. 
 - 🌎 A phrase: "From Piauí to the world".
