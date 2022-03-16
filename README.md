@@ -2,7 +2,7 @@
 
 - 🔭 I am currently student of Systems Analysis and Development at Fatec Zona Sul College.
 - 📗 I am currently learning Javascript and web development skills, I also intend to learn Web Backend.  
-- 🔥 Skills: HTML, CSS, C++, Git, Javascript.  
+- 🔥 Skills: HTML, CSS, C++, Git, Javascript, Java.  
 - 🖥️ I am looking for a Front End Developer job, either as an Intern or a Junior. 
 - 🌎 A phrase: "From Piauí to the world".
 - 📫 How to reach me: marcosfelipek10@gmail.com
