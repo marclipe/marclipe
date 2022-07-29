@@ -2,7 +2,7 @@
 
 - 🔭 I am currently FRONT-END DEVELOPER.  
 - 🔥 Skills: HTML, CSS, C++, Git, Javascript, Java.  
-- 🌎 A phrase: "From Piauí to the world".
+- 🌎 "From Piauí to the world".
 - 📫 How to reach me: marcosfelipek10@gmail.com
 - 😄 Pronouns: he, him
 - ⚡ Fun fact: I know HTML is not a programming language hahaha!
