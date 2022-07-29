@@ -1,7 +1,6 @@
 ## Hi, I am Marcos Felipe, welcome to my GitHub. 🎯
 
-- 🔭 I am currently FRONT-END DEVELOPER.
-- 📗 I am currently learning Javascript and web development skills, I also intend to learn Web Backend.  
+- 🔭 I am currently FRONT-END DEVELOPER.  
 - 🔥 Skills: HTML, CSS, C++, Git, Javascript, Java.  
 - 🌎 A phrase: "From Piauí to the world".
 - 📫 How to reach me: marcosfelipek10@gmail.com
