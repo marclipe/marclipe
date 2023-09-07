@@ -1,7 +1,7 @@
 ## Hi, I am Marcos Felipe, welcome to my GitHub. 🎯
 
 - 🔭 I am currently FRONT-END DEVELOPER.  
-- 🔥 Skills: HTML, CSS, C++, Git, Javascript, Java.  
+- 🔥 Skills: HTML, CSS (styled-components and Sass), React, Git, Javascript, Typescript, NodeJS.  
 - 🌎 "From Piauí to the world".
 - 📫 How to reach me: marcosfelipek10@gmail.com
 - 😄 Pronouns: he, him
@@ -29,7 +29,7 @@
 ## Social
   
 <div> 
-   <a href="https://www.linkedin.com/in/marcosfelipesl/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="[https://www.linkedin.com/in/marcosfelipesl/-45875016a](https://www.linkedin.com/in/marclipe/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/marclipe_sl" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/marclipe_sl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marcosfelipek10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
