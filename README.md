@@ -1,7 +1,7 @@
 ## Hi, I am Marcos Felipe, welcome to my GitHub. 🎯
 
 - 🔭 I am currently FRONT-END DEVELOPER.  
-- 🔥 Skills: HTML, CSS (styled-components and Sass), React, Git, Javascript, Typescript, NodeJS.  
+- 🔥 Skills: HTML, CSS (styled-components and Sass), ReactJS, Git, Javascript, Typescript, NodeJS.  
 - 🌎 "From Piauí to the world".
 - 📫 How to reach me: marcosfelipek10@gmail.com
 - 😄 Pronouns: he, him
