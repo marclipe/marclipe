@@ -1,6 +1,6 @@
 ## Hi, I am Marcos Felipe, welcome to my GitHub. 🎯
 
-- 🔭 I am currently FRONT-END DEVELOPER.  
+- 🔭 I am currently Front-end Developer.  
 - 🌎 "From Piauí to the world".
 - 📫 How to reach me: marcosfelipek10@gmail.com
 - 😄 Pronouns: he, him
