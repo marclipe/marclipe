@@ -1,7 +1,6 @@
 ## Hi, I am Marcos Felipe, welcome to my GitHub. 🎯
 
 - 🔭 I am currently FRONT-END DEVELOPER.  
-- 🔥 Skills: HTML, CSS (styled-components and Sass), ReactJS, Git, Javascript, Typescript, NodeJS.  
 - 🌎 "From Piauí to the world".
 - 📫 How to reach me: marcosfelipek10@gmail.com
 - 😄 Pronouns: he, him
@@ -23,12 +22,14 @@
   <img align="center" alt="Marc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marc-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Marc-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Marc-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Marc-SC" height="30" width="40" src="https://styled-components.com/atom.png">
   <img align="center" alt="Marc-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Marc-Ex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />        
   <img align="center" alt="Marc-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Marc-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  
 </div>
 
     
