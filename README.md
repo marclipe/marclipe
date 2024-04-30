@@ -11,7 +11,6 @@
 <div align="center">
   <a href="https://github.com/marclipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marclipe&layout=compact&langs_count=7&theme=blueberry"/>
-  <img height="180em" alt="GIF" src="https://i.giphy.com/dWesBcTLavkZuG35MI.webp"/>
 </div>
 
 ## Languages and Frameworks
